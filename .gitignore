@@ -1,0 +1,11 @@
+ .vs/
+        .vsconfig
+        Anim.sln
+        Assembly-CSharp-Editor.csproj
+        Assembly-CSharp.csproj
+        Library/
+        Logs/
+        Packages/
+        UpgradeLog.htm
+        UserSettings/
+        obj/
